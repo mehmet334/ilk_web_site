@@ -22,10 +22,3 @@ Bu proje, HTML5 ve temel CSS kullanarak hazırlanmış kişisel bir tanıtım sa
 ## 🖼️ Ekran Görüntüsü
 
 > ![Ekran Görüntüsü](screenshot.png)
-
-
-[GitHub Pages'de Görüntüle](https://kullaniciadi.github.io/proje-adi/)  
-_(Linki kendi GitHub sayfana göre güncellemeyi unutma.)_
-
-## 📂 Dosya Yapısı
-
