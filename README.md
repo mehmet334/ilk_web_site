@@ -21,10 +21,8 @@ Bu proje, HTML5 ve temel CSS kullanarak hazırlanmış kişisel bir tanıtım sa
 
 ## 🖼️ Ekran Görüntüsü
 
-> Dilersen buraya bir ekran görüntüsü ekleyebilirsin:  
 > ![Ekran Görüntüsü](screenshot.png)
 
-## 🌐 Canlı Demo
 
 [GitHub Pages'de Görüntüle](https://kullaniciadi.github.io/proje-adi/)  
 _(Linki kendi GitHub sayfana göre güncellemeyi unutma.)_
